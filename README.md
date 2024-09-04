@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! 👋
 
 Meu nome é Lucas da Luz Pereira, sou advogado especialista em Direito Tributário pela PUC-SP que começou a desenvolver por hobby, mas acabou se apaixonando por esse mundo.
 
